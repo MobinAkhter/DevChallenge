@@ -6,7 +6,7 @@
 
 ### Though it would be better to work on the front and backend seperately, to showcase my dev skills. Later, once I understand how to connect front and backend, I can merge the two branches.
 
-## Optimistic I could do it by Sunday.
+## Optimistic I could learn how to solve it by Sunday.
 
 ## From my understanding, to publish the web application:
 ### dotnet publish -c Release -o published  | This would package the entire app for production
