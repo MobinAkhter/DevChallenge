@@ -1,10 +1,10 @@
 # DevChallenge
 
-## Had trouble connecting web api with react. This was the first time I had react as frontend with .NET Core web api backend. Usally, I did HTML, CSS, JS. 
+### Had trouble connecting web api with react. This was the first time I had react as frontend with .NET Core web api backend. Usally, I did HTML, CSS, JS. 
 
-## That took a lot of my time today, but I was not able to figure out some of the errors popping up, while coding simulatenously. 
+### That took a lot of my time today, but I was not able to figure out some of the errors popping up, while coding simulatenously. 
 
-## Though it would be better to work on the front and backend seperately, to showcase my dev skills. Later, once I understand how to connect front and backend, I can merge the two branches.
+### Though it would be better to work on the front and backend seperately, to showcase my dev skills. Later, once I understand how to connect front and backend, I can merge the two branches.
 
 ## Optimistic I could do it by Sunday.
 
