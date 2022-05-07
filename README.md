@@ -1,6 +1,6 @@
 # DevChallenge
 
-## Had trouble connecting web api with react. This was the first time I had react as frontend with .NET Core web api backend. Uusally, I did HTML, CSS, JS. 
+## Had trouble connecting web api with react. This was the first time I had react as frontend with .NET Core web api backend. Usally, I did HTML, CSS, JS. 
 
 ## That took a lot of my time today, but I was not able to figure out some of the errors popping up, while coding simulatenously. 
 
